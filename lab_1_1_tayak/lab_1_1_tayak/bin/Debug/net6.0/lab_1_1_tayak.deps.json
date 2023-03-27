@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "lab_1_1_tayak/1.0.0": {
+        "runtime": {
+          "lab_1_1_tayak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab_1_1_tayak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

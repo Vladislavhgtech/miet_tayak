@@ -1,0 +1,15 @@
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\bin\Debug\net6.0\lab_1_1_tayak.exe
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\bin\Debug\net6.0\lab_1_1_tayak.deps.json
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\bin\Debug\net6.0\lab_1_1_tayak.runtimeconfig.json
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\bin\Debug\net6.0\lab_1_1_tayak.dll
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\bin\Debug\net6.0\lab_1_1_tayak.pdb
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\lab_1_1_tayak.csproj.AssemblyReference.cache
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\lab_1_1_tayak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\lab_1_1_tayak.AssemblyInfoInputs.cache
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\lab_1_1_tayak.AssemblyInfo.cs
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\lab_1_1_tayak.csproj.CoreCompileInputs.cache
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\lab_1_1_tayak.dll
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\refint\lab_1_1_tayak.dll
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\lab_1_1_tayak.pdb
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\lab_1_1_tayak.genruntimeconfig.cache
+C:\Users\vld85\source\repos\lab_1_1_tayak\lab_1_1_tayak\obj\Debug\net6.0\ref\lab_1_1_tayak.dll
