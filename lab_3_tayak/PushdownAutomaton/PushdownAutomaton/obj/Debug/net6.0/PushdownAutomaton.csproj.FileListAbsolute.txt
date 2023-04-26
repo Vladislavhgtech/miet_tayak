@@ -1,0 +1,15 @@
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\bin\Debug\net6.0\PushdownAutomaton.exe
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\bin\Debug\net6.0\PushdownAutomaton.deps.json
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\bin\Debug\net6.0\PushdownAutomaton.runtimeconfig.json
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\bin\Debug\net6.0\PushdownAutomaton.dll
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\bin\Debug\net6.0\PushdownAutomaton.pdb
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\PushdownAutomaton.csproj.AssemblyReference.cache
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\PushdownAutomaton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\PushdownAutomaton.AssemblyInfoInputs.cache
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\PushdownAutomaton.AssemblyInfo.cs
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\PushdownAutomaton.csproj.CoreCompileInputs.cache
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\PushdownAutomaton.dll
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\refint\PushdownAutomaton.dll
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\PushdownAutomaton.pdb
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\PushdownAutomaton.genruntimeconfig.cache
+C:\Users\vld85\source\repos\PushdownAutomaton\PushdownAutomaton\obj\Debug\net6.0\ref\PushdownAutomaton.dll
