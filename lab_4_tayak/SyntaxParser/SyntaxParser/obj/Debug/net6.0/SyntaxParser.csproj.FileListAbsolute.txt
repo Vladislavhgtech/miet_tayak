@@ -1,0 +1,5 @@
+C:\Users\vld85\source\repos\SyntaxParser\SyntaxParser\obj\Debug\net6.0\SyntaxParser.csproj.AssemblyReference.cache
+C:\Users\vld85\source\repos\SyntaxParser\SyntaxParser\obj\Debug\net6.0\SyntaxParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vld85\source\repos\SyntaxParser\SyntaxParser\obj\Debug\net6.0\SyntaxParser.AssemblyInfoInputs.cache
+C:\Users\vld85\source\repos\SyntaxParser\SyntaxParser\obj\Debug\net6.0\SyntaxParser.AssemblyInfo.cs
+C:\Users\vld85\source\repos\SyntaxParser\SyntaxParser\obj\Debug\net6.0\SyntaxParser.csproj.CoreCompileInputs.cache
