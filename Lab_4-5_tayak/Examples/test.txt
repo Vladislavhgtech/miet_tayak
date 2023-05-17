@@ -1,0 +1,22 @@
+<E>:<T><El>
+<El>:|‘+’<T><El>
+<T>:<F><Tl>
+<Tl>:|‘*’<F><Tl>
+<F>:‘(’<E>‘)’|‘id’
+
+
+
+
+)id*+id
+
+int main(){} 
+
+
+
+void main ( ) 
+{
+    if ((a > b) or ((a > c) and (!(a == n))))
+    {
+         return 0 ;
+    } 
+}
