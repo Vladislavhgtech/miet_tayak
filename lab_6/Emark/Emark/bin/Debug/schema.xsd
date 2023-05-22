@@ -1,0 +1,9 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="unqualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="block" type="blockType" />
+	
+	<xs:complexType name="blockType">    
+		<xs:sequence minOccurs="0">
+			<xs:element name="node" type="blockType" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

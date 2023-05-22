@@ -1,0 +1,50 @@
+<block rows="2" columns="3">
+	<column width="21" valign="bottom">
+		<row halign="center" bgcolor="2" textcolor="3" height="10">
+			qwe1
+		</row>
+		<row halign="center" bgcolor="4" textcolor="5" height="15">
+			qwe2asdfasdfasdfsafaffasd
+		</row>
+	</column>
+	<column width="31" valign="center">
+		<row halign="center" bgcolor="8" textcolor="3" height="8">
+			qwe1asdfasdff
+		</row>
+		<row halign="center" bgcolor="6" textcolor="7" height="16">
+			<block rows="2" columns="0">
+				<row height="5" bgcolor="10" textcolor="11">
+					1233
+				</row>
+				<row bgcolor="14" textcolor="13">
+					4441
+				</row>
+			</block>
+		</row>
+	</column>
+	<column valign="bottom">
+		<row halign="center" bgcolor="2" textcolor="3" height="10">
+			qwe1
+		</row>
+		<row halign="right" bgcolor="4" textcolor="5" height="15">
+			<block rows="2" columns="2">
+				<row height="4">
+					<column width="7" bgcolor="1">
+						1gkjhkjhgkjghggg
+					</column>
+					<column bgcolor="5">
+						2
+					</column>
+				</row>
+				<row>
+					<column width="9" bgcolor="6">
+						3
+					</column>
+					<column bgcolor="7">
+						4
+					</column>
+				</row>
+			</block>
+		</row>
+	</column>
+</block>
